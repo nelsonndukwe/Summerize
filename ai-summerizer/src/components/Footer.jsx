@@ -54,7 +54,7 @@ const Footer = () => {
             <button
               type="button"
               onClick={() => {
-                window.open("https://github.com/nelsonndukwe");
+                window.open("https://github.com/nelsonndukwe/Summerize/tree/main");
               }}
               className=" mt-5 rounded-t-xl border border-black bg-black py-1.5 px-3 text-lg text-white transition-all hover:bg-white hover:text-black duration-300"
             >

@@ -8,7 +8,7 @@ const Hero = () => {
         <button
           type="button"
           onClick={() => {
-            window.open("https://github.com/nelsonndukwe");
+            window.open("https://github.https://github.com/nelsonndukwe/Summerize/tree/main/nelsonndukwe");
           }}
           className="black_btn"
         >
